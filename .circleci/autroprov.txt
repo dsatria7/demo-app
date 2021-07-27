@@ -1,6 +1,3 @@
-
-
-
 autoprov_cfg init AWS -mn "gwlbmanagementserver" -tn "gwlb-ASGconfiguration" -otp "Checkpoint11" -ver R80.40 -po "Standard" -cn "gwlb-controller" -r "us-east-1" -iam
 
 autoprov_cfg init AWS -mn "gwlbmanagementserver" -tn "<TEMPLATE-NAME>" -
